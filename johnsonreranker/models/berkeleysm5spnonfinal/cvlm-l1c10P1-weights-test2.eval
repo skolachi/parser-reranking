@@ -1,0 +1,4 @@
+# Evaluating johnsonreranker/models/berkeley-sm5/nonfinal/test2.gz
+# 1198595 features in johnsonreranker/models/berkeley-sm5/nonfinal/features.gz
+# 1345 sentences in johnsonreranker/models/berkeley-sm5/nonfinal/test2.gz
+# ncorrect = 23025, ngold = 25709, nparse = 25369, f-score = 0.901562, -log P = 3183.08, 1198595 nonzero features, mean w = 0.000786164, sd w = 0.00257863
